@@ -1,0 +1,15 @@
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/DizilerVeDonguler/AlisverisHesaplamaUygulamasi/v4/bin/Debug/net8.0/v4
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/DizilerVeDonguler/AlisverisHesaplamaUygulamasi/v4/bin/Debug/net8.0/v4.deps.json
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/DizilerVeDonguler/AlisverisHesaplamaUygulamasi/v4/bin/Debug/net8.0/v4.runtimeconfig.json
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/DizilerVeDonguler/AlisverisHesaplamaUygulamasi/v4/bin/Debug/net8.0/v4.dll
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/DizilerVeDonguler/AlisverisHesaplamaUygulamasi/v4/bin/Debug/net8.0/v4.pdb
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/DizilerVeDonguler/AlisverisHesaplamaUygulamasi/v4/obj/Debug/net8.0/v4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/DizilerVeDonguler/AlisverisHesaplamaUygulamasi/v4/obj/Debug/net8.0/v4.AssemblyInfoInputs.cache
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/DizilerVeDonguler/AlisverisHesaplamaUygulamasi/v4/obj/Debug/net8.0/v4.AssemblyInfo.cs
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/DizilerVeDonguler/AlisverisHesaplamaUygulamasi/v4/obj/Debug/net8.0/v4.csproj.CoreCompileInputs.cache
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/DizilerVeDonguler/AlisverisHesaplamaUygulamasi/v4/obj/Debug/net8.0/v4.sourcelink.json
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/DizilerVeDonguler/AlisverisHesaplamaUygulamasi/v4/obj/Debug/net8.0/v4.dll
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/DizilerVeDonguler/AlisverisHesaplamaUygulamasi/v4/obj/Debug/net8.0/refint/v4.dll
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/DizilerVeDonguler/AlisverisHesaplamaUygulamasi/v4/obj/Debug/net8.0/v4.pdb
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/DizilerVeDonguler/AlisverisHesaplamaUygulamasi/v4/obj/Debug/net8.0/v4.genruntimeconfig.cache
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/DizilerVeDonguler/AlisverisHesaplamaUygulamasi/v4/obj/Debug/net8.0/ref/v4.dll

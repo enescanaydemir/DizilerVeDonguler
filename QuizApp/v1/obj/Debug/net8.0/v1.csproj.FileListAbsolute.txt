@@ -1,0 +1,15 @@
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/DizilerVeDonguler/QuizApp/v1/bin/Debug/net8.0/v1
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/DizilerVeDonguler/QuizApp/v1/bin/Debug/net8.0/v1.deps.json
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/DizilerVeDonguler/QuizApp/v1/bin/Debug/net8.0/v1.runtimeconfig.json
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/DizilerVeDonguler/QuizApp/v1/bin/Debug/net8.0/v1.dll
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/DizilerVeDonguler/QuizApp/v1/bin/Debug/net8.0/v1.pdb
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/DizilerVeDonguler/QuizApp/v1/obj/Debug/net8.0/v1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/DizilerVeDonguler/QuizApp/v1/obj/Debug/net8.0/v1.AssemblyInfoInputs.cache
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/DizilerVeDonguler/QuizApp/v1/obj/Debug/net8.0/v1.AssemblyInfo.cs
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/DizilerVeDonguler/QuizApp/v1/obj/Debug/net8.0/v1.csproj.CoreCompileInputs.cache
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/DizilerVeDonguler/QuizApp/v1/obj/Debug/net8.0/v1.sourcelink.json
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/DizilerVeDonguler/QuizApp/v1/obj/Debug/net8.0/v1.dll
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/DizilerVeDonguler/QuizApp/v1/obj/Debug/net8.0/refint/v1.dll
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/DizilerVeDonguler/QuizApp/v1/obj/Debug/net8.0/v1.pdb
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/DizilerVeDonguler/QuizApp/v1/obj/Debug/net8.0/v1.genruntimeconfig.cache
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/DizilerVeDonguler/QuizApp/v1/obj/Debug/net8.0/ref/v1.dll
